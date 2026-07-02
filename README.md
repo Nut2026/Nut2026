@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Nuz Zealous!
+
+I specialise in transforming ideas into polished products. I got into full-stack development because of my passion and ability to develop programs from scratch. When I'm not at my computer, you can find me writing or spending time with my family. I believe great software is built through empathy and perseverance.
+
+You can find me on GitHub (you're here!) or mailto:nuzealouss@gmail.com. 
 
 <!--
 **Nut2026/Nut2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

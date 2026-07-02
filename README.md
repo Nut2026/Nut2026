@@ -42,7 +42,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-(You are here!)
+*(You are here!)*
 
 ## My FOSS Footprint
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nut2026&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

@@ -33,7 +33,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 - **Design**
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](https://inkscape.org/) [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/) [![ibisPaint](https://img.shields.io/badge/ibisPaint-FF6B6B?logo=ibispaint&logoColor=white)](https://ibispaint.com/) [![Microsoft Clipchamp](https://img.shields.io/badge/Clipchamp-0078D4?logo=clipchamp&logoColor=white)](https://clipchamp.com/)
 
-## Let's Connect
+## Let's Build Amazingz Together
 
 > 🟢 Currently available for freelance / part-time roles / open-source collaboration.
 

@@ -1,5 +1,5 @@
-# Hi, I'm Nuz Zealous!
-> 🌟 Full-stack developer who turns a single-line pitch into a standout product.
+# Hi, it's Nuz Zealous!
+> 🌟 I'm a full-stack developer who turns a single-line pitch into a standout product.
 
 ## About Me
 I specialise in transforming ideas into **polished software**. My **ability and passion** for building scalable programs from scratch drove me into **full-stack development**. Beyond the code, you can find me *writing* or spending *quality time with family*. I believe great technology is built through **empathy** and **perseverance**.
@@ -35,7 +35,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## Let's Build Amazingz Together
 
-> 🟢 I'm currently available for freelance / part-time roles / open-source collaboration.
+> 🟢 Currently available for freelance / part-time roles / open-source collaboration.
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/nuzealous) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:nuzealouss@gmail.com)

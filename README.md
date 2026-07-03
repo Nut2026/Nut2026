@@ -35,7 +35,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## Let's Build Amazingz Together
 
-> 🟢 Currently available for freelance / part-time roles / open-source collaboration.
+> 🟢 I'm currently available for freelance / part-time roles / open-source collaboration.
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/nuzealous) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:nuzealouss@gmail.com)

@@ -16,4 +16,6 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
           COMMIT_MESSAGE: "Update WakaTime stats"

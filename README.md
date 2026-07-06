@@ -50,4 +50,5 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## Self Coding Stats
 <!--START_SECTION:waka-->
+_No data yet but hold on tight, they are on their way!_
 <!--END_SECTION:waka-->

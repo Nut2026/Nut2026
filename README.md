@@ -50,5 +50,82 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## Self Coding Stats
 <!--START_SECTION:waka-->
-_No data yet but hold on tight, they are on their way!_
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2047%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 684 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 49 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌆 Daytime                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌃 Evening                26 commits          █████████████████░░░░░░░░   66.67 % 
+🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   10 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Thursday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Friday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Saturday                 11 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Sunday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+TypeScript               3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.90 % 
+Markdown                 2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Python                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 27 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+teldian                  4 hrs 27 mins       ████████████░░░░░░░░░░░░░   47.21 % 
+vscode-icons-fork        3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.95 % 
+rolve                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+handler                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+5-prs                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+💻 Operating System: 
+Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               2 repos             █████████████████░░░░░░░░   66.67 % 
+JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Nut2026/Nut2026/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/07/2026 04:14:50 UTC
 <!--END_SECTION:waka-->

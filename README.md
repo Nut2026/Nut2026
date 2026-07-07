@@ -50,18 +50,26 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## Self Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2013%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+🌆 Daytime                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+🌃 Evening                30 commits          █████████████████░░░░░░░░   69.77 % 
+🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   10 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Tuesday                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Thursday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Saturday                 11 commits          ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Sunday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Monday                   10 commits          ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Tuesday                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Thursday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Saturday                 11 commits          ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Sunday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 

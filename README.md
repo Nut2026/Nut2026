@@ -33,18 +33,6 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 - **Design**
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](https://inkscape.org/) [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/) [![ibisPaint](https://img.shields.io/badge/ibisPaint-FF6B6B?logo=ibispaint&logoColor=white)](https://ibispaint.com/) [![Microsoft Clipchamp](https://img.shields.io/badge/Clipchamp-0078D4?logo=clipchamp&logoColor=white)](https://clipchamp.com/)
 
-## Let's Build Amazingz Together
-
-> 🟢 Currently available for freelance / part-time roles / open-source collaboration.
-
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/nuzealous) 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:nuzealouss@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nutnotnuts)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-*(You are here!)*
-
 ## My Dev Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2027%20mins-blue?style=flat)
@@ -86,3 +74,15 @@ VS Code                  7 hrs 43 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+## Let's Build Amazingz Together
+
+> 🟢 Currently available for freelance / part-time roles / open-source collaboration.
+
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/nuzealous) 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:nuzealouss@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nutnotnuts)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+*(You are here!)*

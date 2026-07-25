@@ -60,15 +60,14 @@ Sunday                   4 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   34.94 % 
-Markdown                 9 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-JSON                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-JavaScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Markdown                 9 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
+Python                   6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+HTML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+CSS                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 29 mins      █████████████████████████   99.48 % 
-Antigravity Desktop      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+VS Code                  24 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 

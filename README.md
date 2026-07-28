@@ -35,26 +35,28 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-🌃 Evening                25 commits          ██████████████░░░░░░░░░░░   55.56 % 
-🌙 Night                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+🌆 Daytime                8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌃 Evening                25 commits          ████████████████░░░░░░░░░   62.50 % 
+🌙 Night                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Tuesday                  11 commits          ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Wednesday                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Monday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Tuesday                  6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -62,14 +64,36 @@ Sunday                   5 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
-Python                   4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-JSON                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-HTML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Python                   6 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.28 % 
+Markdown                 4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+HTML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 13 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 51 mins (5.32%)
+
+✍️ 50 lines written by AI, 1,242 lines written by hand (3.87% AI-written)
+
+🔤 27,606,619 Input Tokens, 71,178 Output Tokens
+
+💵 $139.51 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 9 AI Prompts
+
+GPT                      61 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.87% of written lines came from AI
+📚 Verbose Prompter — average 10,176 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 97.21% of changed lines were hand-edited
 ```
 
 

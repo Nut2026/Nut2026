@@ -35,7 +35,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2057%20mins-blue?style=flat)
 
@@ -64,22 +64,22 @@ Sunday                   6 commits           ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 15 mins       ████████████████████░░░░░   78.82 % 
-Astro                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   7 hrs 3 mins        ████████████████████░░░░░   80.53 % 
+Astro                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (8.53%)
+⏱ AI Coding Time: 47 mins (8.97%)
 
-✍️ 80 lines written by AI, 541 lines written by hand (12.88% AI-written)
+✍️ 80 lines written by AI, 539 lines written by hand (12.92% AI-written)
 
 🔤 7,392,371 Input Tokens, 22,220 Output Tokens
 
@@ -90,10 +90,10 @@ VS Code                  9 hrs 12 mins       ███████████�
 GPT                      83 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.88% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 12.92% of written lines came from AI
 📚 Verbose Prompter — average 6,470 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 91.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.33% of changed lines were hand-edited
 ```
 
 

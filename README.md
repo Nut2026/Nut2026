@@ -12,7 +12,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 ## Featured Work
 ### Project of the Month (June 2026): SnackGlobe
 
-**Vision** - A world where cultural heritage is preserved and shared through the universal language of food. **Mission** - To build cultural infrastructure for the connected future by using AI to tell the stories behind traditional snacks and making them accessible to everyone via customisable recipes.
+**Vision**: A world where cultural heritage is preserved and shared through the universal language of food. **Mission**: To build cultural infrastructure for the connected future by using AI to tell the stories behind traditional snacks and making them accessible to everyone via customisable recipes.
 
 - **GitHub Repo**: https://github.com/Nut2026/snackglobe
 - **Demo Video**:

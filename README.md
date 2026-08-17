@@ -64,36 +64,20 @@ Sunday                   11 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 36 mins       ██████████████░░░░░░░░░░░   54.90 % 
-TypeScript               2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Astro                    1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-TSConfig                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python                   5 hrs 42 mins       ████████████████████░░░░░   79.61 % 
+Astro                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  7 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (4.3%)
-
-✍️ 61 lines written by AI, 12,368 lines written by hand (0.49% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Github-Copilot           61 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.49% of written lines came from AI
-📄 Detailed Prompter — average 824 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.79% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 

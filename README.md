@@ -64,14 +64,14 @@ Sunday                   11 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 42 mins       ████████████████████░░░░░   79.61 % 
-Astro                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Python                   2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
+TypeScript               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Astro                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

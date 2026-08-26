@@ -35,7 +35,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2048%20mins-blue?style=flat)
 
@@ -64,14 +64,14 @@ Sunday                   11 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 45 mins       ███████████████░░░░░░░░░░   59.14 % 
-TypeScript               3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Python                   9 hrs 49 mins       ████████████████░░░░░░░░░   62.75 % 
+JavaScript               2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+TypeScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

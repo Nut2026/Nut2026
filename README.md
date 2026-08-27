@@ -35,7 +35,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2048%20mins-blue?style=flat)
 
@@ -64,20 +64,34 @@ Sunday                   11 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 49 mins       ████████████████░░░░░░░░░   62.75 % 
-JavaScript               2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-TypeScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Python                   9 hrs 57 mins       ████████████████░░░░░░░░░   64.96 % 
+JavaScript               3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 35 mins (3.89%)
+
+✍️ 0 lines written by AI, 31,107 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 387 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 

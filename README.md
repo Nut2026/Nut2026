@@ -35,9 +35,9 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -64,22 +64,22 @@ Sunday                   11 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 38 mins       █████████████░░░░░░░░░░░░   51.66 % 
-JavaScript               3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-HTML                     2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Python                   9 hrs 20 mins       █████████████░░░░░░░░░░░░   53.45 % 
+JavaScript               3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+HTML                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (9.04%)
+⏱ AI Coding Time: 1 hr 30 mins (8.65%)
 
-✍️ 2,985 lines written by AI, 25,960 lines written by hand (10.31% AI-written)
+✍️ 2,985 lines written by AI, 26,362 lines written by hand (10.17% AI-written)
 
 🔤 33,309 Input Tokens, 213 Output Tokens
 
@@ -90,10 +90,10 @@ VS Code                  16 hrs 43 mins      ███████████�
 Github-Copilot           2,985 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.31% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 10.17% of written lines came from AI
 📄 Detailed Prompter — average 804 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 93.51% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.65% of changed lines were hand-edited
 ```
 
 

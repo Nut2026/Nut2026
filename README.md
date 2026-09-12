@@ -64,22 +64,22 @@ Sunday                   7 commits           ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 9 mins        ██████████████████░░░░░░░   70.40 % 
-JavaScript               2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   9 hrs 29 mins       ████████████████████░░░░░   78.19 % 
+JavaScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-VS Code                  13 hrs              █████████████████████████   100.00 % 
+VS Code                  12 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (11.82%)
+⏱ AI Coding Time: 1 hr 32 mins (12.65%)
 
-✍️ 8,565 lines written by AI, 9,983 lines written by hand (46.18% AI-written)
+✍️ 8,565 lines written by AI, 10,973 lines written by hand (43.84% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -90,10 +90,10 @@ VS Code                  13 hrs              ███████████�
 Github-Copilot           8,569 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.18% of written lines came from AI
+⚖️ Balanced with AI — 43.84% of written lines came from AI
 📚 Verbose Prompter — average 1,706 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 64.91% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 66.33% of changed lines were hand-edited
 ```
 
 

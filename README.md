@@ -64,36 +64,36 @@ Sunday                   6 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 10 mins       █████████████████░░░░░░░░   68.90 % 
-JavaScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-CSS                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Python                   1 hr 44 mins        ████████████████░░░░░░░░░   62.15 % 
+JavaScript               34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (25.38%)
+⏱ AI Coding Time: 34 mins (20.81%)
 
-✍️ 8,565 lines written by AI, 7,013 lines written by hand (54.98% AI-written)
+✍️ 8,565 lines written by AI, 6,647 lines written by hand (56.3% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
 Github-Copilot           8,569 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.98% of written lines came from AI
-📚 Verbose Prompter — average 1,706 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 49.47% of changed lines were hand-edited
+⚖️ Balanced with AI — 56.3% of written lines came from AI
+📄 Detailed Prompter — average 1,094 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 47.73% of changed lines were hand-edited
 ```
 
 

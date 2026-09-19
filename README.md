@@ -37,25 +37,28 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-🌆 Daytime                17 commits          ████████░░░░░░░░░░░░░░░░░   34.00 % 
-🌃 Evening                24 commits          ████████████░░░░░░░░░░░░░   48.00 % 
-🌙 Night                  7 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+🌆 Daytime                15 commits          ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+🌃 Evening                24 commits          ████████████░░░░░░░░░░░░░   46.15 % 
+🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   10 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Friday                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Sunday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Monday                   9 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Tuesday                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Friday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 12 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Sunday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 ```
 
 
@@ -63,13 +66,10 @@ Sunday                   7 commits           ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             ███████████░░░░░░░░░░░░░░   45.40 % 
-CSS                      11 mins             ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Other                    10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Other                    10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 

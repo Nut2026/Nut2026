@@ -66,10 +66,14 @@ Sunday                   6 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 mins             █████████████████████████   100.00 % 
+Python                   1 hr 15 mins        █████████████░░░░░░░░░░░░   50.47 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+CSS                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

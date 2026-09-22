@@ -17,7 +17,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 - **GitHub Repo**: https://github.com/Nut2026/snackglobe
 - **Demo Video**:
 
-[![SnackGlobe Demo v1.2](https://img.youtube.com/vi/bFxdJRkgjqw/maxresdefault.jpg)](https://youtu.be/bFxdJRkgjqw)
+[![SnackGlobe Demo v1.2](https://img.youtube.com/vi/bFxdJRkgjqw/hqdefault.jpg)](https://youtu.be/bFxdJRkgjqw)
 
 ## Tech Stack
 - **Languages**

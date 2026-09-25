@@ -37,9 +37,9 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2052%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -66,34 +66,34 @@ Sunday                   6 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 2 mins        ████████████████░░░░░░░░░   63.92 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Python                   5 hrs 34 mins       ███████████████████░░░░░░   75.72 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (3.04%)
+⏱ AI Coding Time: 21 mins (5.01%)
 
-✍️ 0 lines written by AI, 921 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 981 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Github-Copilot           4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,528 characters per prompt
+📄 Detailed Prompter — average 1,136 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```

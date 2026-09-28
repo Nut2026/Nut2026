@@ -44,21 +44,21 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-🌆 Daytime                15 commits          ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-🌃 Evening                24 commits          ███████████░░░░░░░░░░░░░░   45.28 % 
-🌙 Night                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌆 Daytime                15 commits          ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+🌃 Evening                33 commits          ██████████████░░░░░░░░░░░   54.10 % 
+🌙 Night                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Friday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 12 commits          ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Sunday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Monday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Tuesday                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Saturday                 12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Sunday                   15 commits          ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 ```
 
 
@@ -66,36 +66,36 @@ Sunday                   7 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 13 mins       █████████████████░░░░░░░░   66.05 % 
-TypeScript               1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Python                   10 hrs 1 min        ██████████████████░░░░░░░   72.31 % 
+TypeScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (19.54%)
+⏱ AI Coding Time: 4 hrs 9 mins (30.41%)
 
-✍️ 22,424 lines written by AI, 4,008 lines written by hand (84.84% AI-written)
+✍️ 35,754 lines written by AI, 4,555 lines written by hand (88.7% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 8 AI Sessions, 33 AI Prompts
 
-Github-Copilot           22,428 lines        █████████████████████████   100.00 % 
+Github-Copilot           35,758 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.84% of written lines came from AI
-📄 Detailed Prompter — average 1,144 characters per prompt
+🤖 AI-Driven — 88.7% of written lines came from AI
+📄 Detailed Prompter — average 851 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 25.05% of changed lines were hand-edited
+🚀 High AI Trust — 20.31% of changed lines were hand-edited
 ```
 
 

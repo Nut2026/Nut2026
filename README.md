@@ -66,36 +66,36 @@ Sunday                   5 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 38 mins       ██████████████████░░░░░░░   71.52 % 
-TypeScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Python                   8 hrs 15 mins       ██████████████████░░░░░░░   71.04 % 
+TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 9 mins (31.3%)
+⏱ AI Coding Time: 4 hrs 1 min (35.16%)
 
-✍️ 35,754 lines written by AI, 4,555 lines written by hand (88.7% AI-written)
+✍️ 35,754 lines written by AI, 3,637 lines written by hand (90.77% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 33 AI Prompts
+🧠 7 AI Sessions, 31 AI Prompts
 
 Github-Copilot           35,758 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.7% of written lines came from AI
-📄 Detailed Prompter — average 851 characters per prompt
+🤖 AI-Driven — 90.77% of written lines came from AI
+📄 Detailed Prompter — average 807 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 20.31% of changed lines were hand-edited
+🚀 High AI Trust — 18.64% of changed lines were hand-edited
 ```
 
 

@@ -44,21 +44,21 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-🌆 Daytime                13 commits          ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-🌃 Evening                30 commits          ██████████████░░░░░░░░░░░   55.56 % 
-🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+🌆 Daytime                13 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+🌃 Evening                31 commits          ██████████████░░░░░░░░░░░   56.36 % 
+🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Friday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Saturday                 12 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Sunday                   10 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Monday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Thursday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Friday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Saturday                 12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Sunday                   10 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 ```
 
 
@@ -66,37 +66,37 @@ Sunday                   10 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 57 mins       ████████████████░░░░░░░░░   65.55 % 
-TypeScript               1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python                   4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.03 % 
+TypeScript               3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Image (svg)              1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+TSConfig                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 17 mins       ████████████████████████░   96.19 % 
-Copilot CLI              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+VS Code                  10 hrs 46 mins      ████████████████████████░   95.60 % 
+Copilot CLI              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (7.1%)
+⏱ AI Coding Time: 47 mins (7.04%)
 
-✍️ 39 lines written by AI, 532 lines written by hand (6.83% AI-written)
+✍️ 40 lines written by AI, 919 lines written by hand (4.17% AI-written)
 
 🔤 10,498,738 Input Tokens, 1,514,465 Output Tokens
 
 💵 $3.22 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
-GPT                      39 lines            █████████████████████████   100.00 % 
+GPT                      40 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.83% of written lines came from AI
-📚 Verbose Prompter — average 6,215 characters per prompt
+🧑‍💻 Mostly Hands-On — 4.17% of written lines came from AI
+📚 Verbose Prompter — average 4,973 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 93.85% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.16% of changed lines were hand-edited
 ```
 
 

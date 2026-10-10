@@ -29,9 +29,9 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 - **AI & Automation**
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?logo=telegram&logoColor=white)](https://docs.telethon.dev/) [![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-2CA5E0?logo=telegram&logoColor=white)](https://python-telegram-bot.org/)
 - **Databases**
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 - **Deployment**
-[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/) [![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)](https://railway.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/) [![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)](https://railway.app/) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 - **Design**
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](https://inkscape.org/) [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/) [![ibisPaint](https://img.shields.io/badge/ibisPaint-FF6B6B?logo=ibispaint&logoColor=white)](https://ibispaint.com/) [![Microsoft Clipchamp](https://img.shields.io/badge/Clipchamp-0078D4?logo=clipchamp&logoColor=white)](https://clipchamp.com/)
 

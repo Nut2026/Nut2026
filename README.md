@@ -44,21 +44,21 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-🌆 Daytime                24 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌃 Evening                31 commits          ████████████░░░░░░░░░░░░░   46.97 % 
-🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+🌆 Daytime                34 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌃 Evening                40 commits          ████████████░░░░░░░░░░░░░   47.06 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Thursday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Friday                   12 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Saturday                 17 commits          ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Sunday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Tuesday                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Thursday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Friday                   18 commits          █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Saturday                 30 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
+Sunday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 ```
 
 

@@ -66,37 +66,37 @@ Sunday                   10 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.50 % 
-TypeScript               4 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-TSConfig                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Image (svg)              1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Python                   11 hrs 6 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
+TypeScript               7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+TSConfig                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Image (svg)              1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 10 mins      ████████████████████████░   94.22 % 
-Copilot CLI              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+VS Code                  22 hrs 41 mins      ███████████████████████░░   92.22 % 
+Copilot CLI              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (8.11%)
+⏱ AI Coding Time: 2 hrs 48 mins (11.45%)
 
-✍️ 40 lines written by AI, 1,362 lines written by hand (2.85% AI-written)
+✍️ 126 lines written by AI, 2,104 lines written by hand (5.65% AI-written)
 
 🔤 10,639,322 Input Tokens, 1,537,045 Output Tokens
 
 💵 $3.26 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 11 AI Prompts
+🧠 10 AI Sessions, 20 AI Prompts
 
-GPT                      40 lines            █████████████████████████   100.00 % 
+GPT                      147 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.85% of written lines came from AI
-📚 Verbose Prompter — average 4,349 characters per prompt
+🧑‍💻 Mostly Hands-On — 5.65% of written lines came from AI
+📚 Verbose Prompter — average 2,631 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 98.96% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.4% of changed lines were hand-edited
 ```
 
 

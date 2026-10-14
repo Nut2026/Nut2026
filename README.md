@@ -2,7 +2,7 @@
 > 🌟 I'm a full-stack developer who turns a single-line pitch into a standout product.
 
 ## About Me
-I specialise in transforming ideas into **polished software**. My **ability and passion** for building scalable programs from scratch drove me into **full-stack development**. Beyond the code, you can find me *writing* or spending *quality time with family*. I believe great technology is built through **empathy** and **perseverance**.
+I specialise in transforming ideas into **polished software**. My **ability and passion** for building scalable programs from scratch drove me into **full-stack development**. Beyond the code, you can find me *writing*, enjoying *yoga*, or spending *quality time with family*. I believe great technology is built through **empathy** and **perseverance**.
 
 ### My Digital Passions
 - **Software**: Innovating software from scratch and improving them constantly
@@ -33,7 +33,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 - **Deployment**
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/) [![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)](https://railway.app/) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 - **Design**
-[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](https://inkscape.org/) [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/) [![ibisPaint](https://img.shields.io/badge/ibisPaint-FF6B6B?logo=ibispaint&logoColor=white)](https://ibispaint.com/) [![Microsoft Clipchamp](https://img.shields.io/badge/Clipchamp-0078D4?logo=clipchamp&logoColor=white)](https://clipchamp.com/)
+[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](https://inkscape.org/) [![ibisPaint](https://img.shields.io/badge/ibisPaint-FF6B6B?logo=ibispaint&logoColor=white)](https://ibispaint.com/) [![Microsoft Clipchamp](https://img.shields.io/badge/Clipchamp-0078D4?logo=clipchamp&logoColor=white)](https://clipchamp.com/)
 
 ## My Dev Stats
 <!--START_SECTION:waka-->

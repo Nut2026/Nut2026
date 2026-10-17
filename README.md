@@ -41,24 +41,24 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%201%20min-blue?style=flat)
 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-🌆 Daytime                33 commits          ████████░░░░░░░░░░░░░░░░░   30.56 % 
-🌃 Evening                46 commits          ███████████░░░░░░░░░░░░░░   42.59 % 
-🌙 Night                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+🌞 Morning                24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌆 Daytime                38 commits          ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌃 Evening                53 commits          ███████████░░░░░░░░░░░░░░   42.06 % 
+🌙 Night                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Wednesday                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Thursday                 20 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Friday                   24 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Saturday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Monday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Wednesday                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Thursday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Friday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Saturday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 ```
 
 
@@ -66,37 +66,37 @@ Sunday                   15 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   37.05 % 
-TypeScript               10 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   33.89 % 
-Git Config               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-HTML                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-JavaScript               1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Python                   14 hrs 18 mins      ███████████░░░░░░░░░░░░░░   44.96 % 
+TypeScript               9 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Git Config               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+JavaScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 40 mins      ███████████████████████░░   91.01 % 
-Copilot CLI              2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+VS Code                  29 hrs 24 mins      ███████████████████████░░   92.46 % 
+Copilot CLI              2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 19 mins (13.73%)
+⏱ AI Coding Time: 3 hrs 48 mins (11.99%)
 
-✍️ 830 lines written by AI, 1,885 lines written by hand (30.57% AI-written)
+✍️ 830 lines written by AI, 3,388 lines written by hand (19.68% AI-written)
 
-🔤 9,179,905 Input Tokens, 1,294,789 Output Tokens
+🔤 9,039,321 Input Tokens, 1,272,209 Output Tokens
 
-💵 $2.66 Estimated AI Cost This Week
+💵 $2.62 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 28 AI Prompts
+🧠 11 AI Sessions, 26 AI Prompts
 
 GPT                      856 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.57% of written lines came from AI
-📄 Detailed Prompter — average 601 characters per prompt
+🧑‍💻 Mostly Hands-On — 19.68% of written lines came from AI
+📄 Detailed Prompter — average 529 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 88.28% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.93% of changed lines were hand-edited
 ```
 
 

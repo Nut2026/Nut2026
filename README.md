@@ -37,7 +37,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2033%20mins-blue?style=flat)
 
@@ -66,37 +66,37 @@ Sunday                   7 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   39.00 % 
-TypeScript               9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Git Config               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Python                   12 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.57 % 
+TypeScript               9 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.27 % 
+Git Config               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 46 mins      ███████████████████████░░   93.04 % 
-Copilot CLI              1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+VS Code                  26 hrs 57 mins      ███████████████████████░░   91.61 % 
+Copilot CLI              2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (10.06%)
+⏱ AI Coding Time: 3 hrs 50 mins (13.04%)
 
-✍️ 976 lines written by AI, 8,549 lines written by hand (10.25% AI-written)
+✍️ 985 lines written by AI, 9,154 lines written by hand (9.71% AI-written)
 
-🔤 9,455,471 Input Tokens, 1,355,736 Output Tokens
+🔤 6,255,724 Input Tokens, 768,945 Output Tokens
 
-💵 $2.81 Estimated AI Cost This Week
+💵 $1.78 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 18 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
-GPT                      982 lines           █████████████████████████   100.00 % 
+GPT                      989 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.25% of written lines came from AI
-📄 Detailed Prompter — average 880 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 96.77% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 9.71% of written lines came from AI
+📄 Detailed Prompter — average 1,358 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 96.8% of changed lines were hand-edited
 ```
 
 

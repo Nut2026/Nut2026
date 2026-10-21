@@ -2,7 +2,7 @@
 > 🌟 I'm an undergraduate student aspiring to be a full-stack developer - one who turns a single-line pitch into a standout product.
 
 ## About Me
-I specialise in transforming ideas into **polished software**. My **ability and passion** for building scalable programs from scratch drove me into **full-stack development**. Beyond the code, you can find me *writing*, enjoying *yoga*, or spending *quality time with family*. I believe great technology is built through **empathy** and **perseverance**.
+I specialise in transforming ideas into **polished software**. My **ability and passion** for building scalable programs from scratch drove me into **full-stack development**. Beyond the code, you can find me *writing*, enjoying *yoga*, or *travelling with my family*. I believe great technology is built through **empathy** and **perseverance**.
 
 ### My Digital Passions
 - **Software**: Innovating software from scratch and improving it constantly

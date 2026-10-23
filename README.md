@@ -7,10 +7,10 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 ### My Digital Passions
 - **Software**: Innovating software from scratch and improving it constantly
 - **FOSS**: Contributing to FOSS projects (and starting my own!)
-- **Hackathons**: Joining, judging, and organising hackathons
+- **Hackathons**: Joining hackathons to push my limits and to be inspired by brilliant builds!
 
 ## Featured Work
-### Project of the Month (June 2026): SnackGlobe
+### SnackGlobe
 
 **Vision**: A world where cultural heritage is preserved and shared through the universal language of food. **Mission**: To build cultural infrastructure for the connected future by using AI to tell the stories behind traditional snacks and making them accessible to everyone via customisable recipes.
 
@@ -23,7 +23,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 - **Languages**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 - **Web Development**
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/) [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](https://astro.build/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/) [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](https://astro.build/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 - **Plugin Development**
 [![Anki](https://img.shields.io/badge/Anki-2C2C2C?logo=anki&logoColor=white)](https://addons.ankiweb.net/) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/api) [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](https://inkscape.org/) [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)](https://sheets.google.com/)
 - **AI & Automation**

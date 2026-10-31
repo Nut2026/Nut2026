@@ -37,9 +37,9 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## My Dev Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -66,23 +66,23 @@ Sunday                   10 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 32 mins       █████████████░░░░░░░░░░░░   50.32 % 
-TypeScript               4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-JavaScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Git Config               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Python                   8 hrs 47 mins       ███████████████░░░░░░░░░░   58.42 % 
+TypeScript               2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+JavaScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Git Config               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 3 mins       ██████████████████░░░░░░░   71.06 % 
-Copilot CLI              4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+VS Code                  10 hrs 8 mins       █████████████████░░░░░░░░   67.38 % 
+Copilot CLI              4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 48 mins (40.16%)
+⏱ AI Coding Time: 6 hrs 48 mins (45.27%)
 
-✍️ 839 lines written by AI, 1,039 lines written by hand (44.68% AI-written)
+✍️ 839 lines written by AI, 900 lines written by hand (48.25% AI-written)
 
 🔤 5,683,061 Input Tokens, 904,009 Output Tokens
 
@@ -93,10 +93,10 @@ Copilot CLI              4 hrs 54 mins       ███████░░░░�
 GPT                      898 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.68% of written lines came from AI
+⚖️ Balanced with AI — 48.25% of written lines came from AI
 📄 Detailed Prompter — average 908 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 73.14% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 86.43% of changed lines were hand-edited
 ```
 
 

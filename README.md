@@ -44,21 +44,21 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                52 commits          ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-🌆 Daytime                60 commits          ████████░░░░░░░░░░░░░░░░░   30.30 % 
-🌃 Evening                77 commits          ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+🌞 Morning                51 commits          ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+🌆 Daytime                56 commits          ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌃 Evening                71 commits          ██████████░░░░░░░░░░░░░░░   38.59 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Tuesday                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Wednesday                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Thursday                 47 commits          ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Tuesday                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Thursday                 45 commits          ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Sunday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 ```
 
 
@@ -66,37 +66,37 @@ Sunday                   23 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.29 % 
-CSS                      1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Python                   2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
+CSS                      1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   30.02 % 
+HTML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 39 mins       █████████████████░░░░░░░░   67.44 % 
-Copilot CLI              2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
+VS Code                  4 hrs 14 mins       █████████████████░░░░░░░░   68.64 % 
+Copilot CLI              1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (53.82%)
+⏱ AI Coding Time: 3 hrs 9 mins (51.14%)
 
-✍️ 1,018 lines written by AI, 570 lines written by hand (64.11% AI-written)
+✍️ 689 lines written by AI, 569 lines written by hand (54.77% AI-written)
 
 🔤 253,660 Input Tokens, 38,301 Output Tokens
 
 💵 $0.10 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 15 AI Prompts
 
-GPT                      1,077 lines         █████████████████████████   100.00 % 
+GPT                      730 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.11% of written lines came from AI
-📄 Detailed Prompter — average 1,252 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 36.57% of changed lines were hand-edited
+⚖️ Balanced with AI — 54.77% of written lines came from AI
+📄 Detailed Prompter — average 919 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 45.93% of changed lines were hand-edited
 ```
 
 

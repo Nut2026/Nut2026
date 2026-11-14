@@ -24,10 +24,10 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 - **Web Development**
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/) [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](https://astro.build/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-- **Plugin Development**
+- **Plugins & Scripts**
 [![Anki](https://img.shields.io/badge/Anki-2C2C2C?logo=anki&logoColor=white)](https://addons.ankiweb.net/) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/api) [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](https://inkscape.org/) [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)](https://sheets.google.com/)
 - **AI & Automation**
-[![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?logo=telegram&logoColor=white)](https://docs.telethon.dev/) [![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-2CA5E0?logo=telegram&logoColor=white)](https://python-telegram-bot.org/) [![discord.py](https://img.shields.io/badge/discord.py-2CA5E0?logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
+[![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?logo=telegram&logoColor=white)](https://docs.telethon.dev/) [![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-2CA5E0?logo=telegram&logoColor=white)](https://python-telegram-bot.org/)
 - **Databases**
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 - **Deployment**

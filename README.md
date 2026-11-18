@@ -39,7 +39,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 

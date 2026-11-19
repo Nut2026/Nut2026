@@ -44,21 +44,21 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                84 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
-🌆 Daytime                58 commits          ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-🌃 Evening                90 commits          █████████░░░░░░░░░░░░░░░░   37.82 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+🌞 Morning                79 commits          ████████░░░░░░░░░░░░░░░░░   33.62 % 
+🌆 Daytime                60 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+🌃 Evening                90 commits          ██████████░░░░░░░░░░░░░░░   38.30 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Thursday                 45 commits          █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Saturday                 73 commits          ████████░░░░░░░░░░░░░░░░░   30.67 % 
-Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Monday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Saturday                 67 commits          ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 ```
 
 
@@ -66,10 +66,11 @@ Sunday                   18 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ██████████████████████░░░   88.39 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 

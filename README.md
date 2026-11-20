@@ -10,12 +10,28 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 - **Hackathons**: Joining hackathons to push my limits and to be inspired by brilliant builds!
 
 ## Featured Work
+
+### Sang Bahasa
+
+**Visi**: Memelihara dan memartabatkan keindahan warisan bahasa Melayu agar kekal segar, relevan, dan dekat di hati generasi masa kini. 
+
+**Misi**: Membina kamus digital khas peribahasa dan bahasa klasik Melayu yang moden dengan carian pantas, paparan kemas, serta lengkap dengan contoh ayat dan padanan bahasa standard.
+
+- **Teknologi**: Astro, TypeScript, Supabase, Vercel
+- **GitHub Repo**: https://github.com/Nut2026/sang-bahasa
+- **Laman Web**: [Kunjungi Sekarang](https://sang-bahasa.vercel.app)
+
+<img src="assets/sang-bahasa-thumbnail.png" alt="Sang Bahasa Thumbnail" width="50%" />
+
 ### SnackGlobe
 
-**Vision**: A world where cultural heritage is preserved and shared through the universal language of food. **Mission**: To build cultural infrastructure for the connected future by using AI to tell the stories behind traditional snacks and making them accessible to everyone via customisable recipes.
+**Vision**: A world where cultural heritage is preserved and shared through the universal language of food. 
 
+**Mission**: To build cultural infrastructure for the connected future by using AI to tell the stories behind traditional snacks and making them accessible to everyone via customisable recipes.
+
+- **Teknologi**: React, TypeScript, Vite, Supabase, Groq
 - **GitHub Repo**: https://github.com/Nut2026/snackglobe
-- **Demo Video**:
+- **Demo Video**: 
 
 [![SnackGlobe Demo v1.2](https://img.youtube.com/vi/bFxdJRkgjqw/hqdefault.jpg)](https://youtu.be/bFxdJRkgjqw)
 
@@ -27,7 +43,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 - **Plugins & Scripts**
 [![Anki](https://img.shields.io/badge/Anki-2C2C2C?logo=anki&logoColor=white)](https://addons.ankiweb.net/) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/api) [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](https://inkscape.org/) [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)](https://sheets.google.com/)
 - **AI & Automation**
-[![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?logo=telegram&logoColor=white)](https://docs.telethon.dev/) [![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-2CA5E0?logo=telegram&logoColor=white)](https://python-telegram-bot.org/)
+[![Groq](https://img.shields.io/badge/Groq-F55036?logo=groq&logoColor=white)](https://groq.com) [![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?logo=telegram&logoColor=white)](https://docs.telethon.dev/) [![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-2CA5E0?logo=telegram&logoColor=white)](https://python-telegram-bot.org/)
 - **Databases**
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 - **Deployment**

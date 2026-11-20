@@ -11,7 +11,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ## Featured Work
 
-### Sang Bahasa
+### A. Sang Bahasa
 
 **Visi**: Memelihara dan memartabatkan keindahan warisan bahasa Melayu agar kekal segar, relevan, dan dekat di hati generasi masa kini. 
 
@@ -23,7 +23,7 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 <img src="assets/sang-bahasa-thumbnail.png" alt="Sang Bahasa Thumbnail" width="50%" />
 
-### SnackGlobe
+### B. SnackGlobe
 
 **Vision**: A world where cultural heritage is preserved and shared through the universal language of food. 
 

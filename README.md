@@ -60,21 +60,21 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                94 commits          █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌆 Daytime                61 commits          ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-🌃 Evening                90 commits          █████████░░░░░░░░░░░░░░░░   35.86 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+🌞 Morning                94 commits          █████████░░░░░░░░░░░░░░░░   36.29 % 
+🌆 Daytime                69 commits          ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+🌃 Evening                90 commits          █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Thursday                 49 commits          █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Saturday                 67 commits          ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Monday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Thursday                 49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Saturday                 75 commits          ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 ```
 
 
@@ -82,23 +82,23 @@ Sunday                   18 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Astro                    1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-HTML                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-TypeScript               58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+TypeScript               2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
+Astro                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+HTML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Python                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       ██████████████████████░░░   86.47 % 
-Copilot CLI              32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+VS Code                  5 hrs 59 mins       ███████████████████████░░   91.66 % 
+Copilot CLI              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (14.59%)
+⏱ AI Coding Time: 35 mins (8.99%)
 
-✍️ 0 lines written by AI, 34 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 98 lines written by hand (0.0% AI-written)
 
 🔤 47,165 Input Tokens, 5,619 Output Tokens
 

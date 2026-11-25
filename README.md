@@ -60,21 +60,21 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                95 commits          ████████░░░░░░░░░░░░░░░░░   30.65 % 
-🌆 Daytime                91 commits          ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-🌃 Evening                118 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+🌞 Morning                96 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌆 Daytime                91 commits          ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌃 Evening                118 commits         █████████░░░░░░░░░░░░░░░░   37.82 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Tuesday                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Thursday                 49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Saturday                 103 commits         ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Tuesday                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Thursday                 49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Saturday                 103 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 
 
@@ -82,35 +82,35 @@ Sunday                   30 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.79 % 
-Astro                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-HTML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Python                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+TypeScript               2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
+Astro                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+HTML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Python                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 27 mins       ███████████████████████░░   92.11 % 
-Copilot CLI              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+VS Code                  5 hrs 59 mins       ███████████████████████░░   91.66 % 
+Copilot CLI              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (15.26%)
+⏱ AI Coding Time: 35 mins (8.99%)
 
 ✍️ 0 lines written by AI, 98 lines written by hand (0.0% AI-written)
 
-🔤 204,012 Input Tokens, 5,619 Output Tokens
+🔤 47,165 Input Tokens, 5,619 Output Tokens
 
-💵 $0.06 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 514 characters per prompt
+📄 Detailed Prompter — average 837 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```

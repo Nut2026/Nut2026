@@ -60,8 +60,8 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                96 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌆 Daytime                91 commits          ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌞 Morning                95 commits          ████████░░░░░░░░░░░░░░░░░   30.45 % 
+🌆 Daytime                92 commits          ███████░░░░░░░░░░░░░░░░░░   29.49 % 
 🌃 Evening                118 commits         █████████░░░░░░░░░░░░░░░░   37.82 % 
 🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
@@ -69,11 +69,11 @@ I specialise in transforming ideas into **polished software**. My **ability and 
 
 ```text
 Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Tuesday                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Thursday                 49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Saturday                 103 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Saturday                 105 commits         ████████░░░░░░░░░░░░░░░░░   33.65 % 
 Sunday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 
@@ -82,14 +82,10 @@ Sunday                   30 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 32 mins        ███████████████░░░░░░░░░░   61.36 % 
-Python                   37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-TSConfig                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
